@@ -15,12 +15,5 @@ exclude:
 header_pages:
   - _pages/pubs.md
   - _pages/news.md
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HDE76W1ESS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HDE76W1ESS');
-</script>
+google:
+    analytics_id:351119155
