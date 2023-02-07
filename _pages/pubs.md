@@ -10,9 +10,9 @@ permalink: "/pubs.html"
 
 2023
 ---
-- The Roles of Tidal Marshes in the Estuarine Biochemical Processes: A Numerical Modeling Study.<br>
+- The Roles of Tidal Marshes in the Estuarine Biochemical Processes: A Numerical Modeling Study.[[pdf](/assets/papers/Cai_2023_MarshRole.pdf)]<br>
 **Cai, X.**, Shen, J., Zhang, Y., J., Qin, Q., and Linker, L.<br>
-*Journal of Geophysical Research: Biogeosciences*
+*Journal of Geophysical Research: Biogeosciences*<br>
 	
 
 - Biophysical interactions control the progression of harmful algal blooms in Chesapeake Bay: a novel Lagrangian particle tracking model with mixotrophic growth and vertical migration.[[pdf](/assets/papers/Xiong_2023_HAB_LagrangianParticleTracking_BiophysicalInteractions.pdf)]<br> 
