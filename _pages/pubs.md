@@ -10,7 +10,7 @@ permalink: "/pubs.html"
 
 2023
 ---
-- Sea-level rise impacts on tidal marshes and estuarine biogeochemical processes.<br>
+- Sea-level rise impacts on tidal marshes and estuarine biogeochemical processes.[[pdf](/assets/papers/Cai_2023_MarshBio_SLR.pdf)]<br>
 **Cai, X.**, Shen, J., Zhang, Y., J., Qin, Q., and Linker, L.<br>
 *Journal of Geophysical Research: Biogeosciences*<br>
 
