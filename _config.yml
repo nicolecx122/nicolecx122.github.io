@@ -5,6 +5,7 @@ encoding: UTF-8
 permalink: /:title/
 markdown: kramdown
 include: ['_pages']
+favicon: favicon.ico
 # collections:
 #   post_drafts:
 #     output: true
