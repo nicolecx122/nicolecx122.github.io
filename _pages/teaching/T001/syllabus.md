@@ -24,11 +24,12 @@ Build and assess statistical models that explain and predict environmental proce
 - Machine Learning for Earth System Applications
 Apply machine learning methods to Earth system data and communicate results with reproducible workflows
 
+<br/>
 ---
 <br/>
 
 ## Course Topics and Outline
-### <font color="#A52A3A">Part I: Data of the earth system*</font>
+### <font color="#A52A3A">Part I: Data of the earth system</font>
 ### Lecture 1:	Observational Data in Earth Science
 Students learn how coastal, oceanic, atmospheric, and terrestrial environments are measured. Topics include satellites for sea surface height and vegetation, buoys and Argo profiles for ocean water properties, eddy covariance towers for land carbon fluxes, and river gauging networks. Focus on the strengths and limitations of each observing system for scientific inference.
 
@@ -108,6 +109,7 @@ Focuses on integrating scientific principles and using AI emulators for fast app
 ***References:*** 
 Liu, L., Zhou, W., Guan, K., Peng, B., Xu, S., Tang, J., Zhu, Q., Till, J., Jia, X., Jiang, C. and Wang, S., 2024. Knowledge-guided machine learning can improve carbon cycle quantification in agroecosystems. Nature communications, 15(1), p.357.
 
+<br/>
 ---
 <br/>
 
@@ -131,4 +133,3 @@ Liu, L., Zhou, W., Guan, K., Peng, B., Xu, S., Tang, J., Zhu, Q., Till, J., Jia,
 - [USGS National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 - [NOAA World Ocean Database](https://www.ncei.noaa.gov/products/world-ocean-database)
 
----
