@@ -14,7 +14,7 @@ favicon: favicon.ico
 exclude:
   - README.md
 header_pages:
-  - _pages/pubs.md
+#  - _pages/pubs.md
 #  - _pages/news.md
 google:
     analytics_id:G-HDE76W1ESS
