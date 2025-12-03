@@ -4,9 +4,12 @@ title: "Data Driven Modeling in Earth and Environmental Science"
 permalink: "/teaching/T001/syllabus"
 ---
 
-# Data Driven Modeling in Earth and Environmental Science
+# Data Driven Modeling in Earth and Environmental Science 
+<br/>
+
 ## Course description
 This course introduces data driven techniques used to analyze Earth and environmental observations and model outputs. Students learn fundamental data handling skills, exploratory analysis, and modern machine learning approaches tailored to environmental systems. Emphasis is placed on understanding the meaning of patterns, variability, and uncertainty in the Earth system rather than on purely computational or algorithmic knowledge. Through hands on coding activities and real world examples from the ocean, atmosphere, hydrosphere, and biosphere, students learn how data driven methods can reveal processes, improve predictions, and support scientific discovery in the environmental sciences.
+<br/>
 
 ## Learning goals
 - Environmental Data and Preprocessing
@@ -21,7 +24,8 @@ Build and assess statistical models that explain and predict environmental proce
 - Machine Learning for Earth System Applications
 Apply machine learning methods to Earth system data and communicate results with reproducible workflows
 
-
+---
+<br/>
 
 ## Course Topics and Outline
 ### <font color="#A52A3A">Part I: Data of the earth system*</font>
@@ -49,6 +53,7 @@ How to screen and correct environmental datasets. Includes checking instrument d
 ***References:*** 
 Kennedy, J.J., 2014. A review of uncertainty in in situ measurements and data sets of sea surface temperature. Reviews of Geophysics, 52(1), pp.1-32.
 
+<br/>
 
 ### <font color="#A52A3A">Part II: Basics of data-driven analysis methods</font>
 ### Lecture 5:	Exploratory Analysis of Environmental Data
@@ -70,13 +75,13 @@ EOF and PCA methods applied to climate phenomena such as ENSO or modes of sea le
 Wilks, D.S., 2011. Principal component (EOF) analysis. In International geophysics (Vol. 100, pp. 519-562). Academic press.
 Champenois, B. and Sapsis, T., 2024. Machine learning framework for the real-time reconstruction of regional 4D ocean temperature fields from historical reanalysis data and real-time satellite and buoy surface measurements. Physica D: Nonlinear Phenomena, 459, p.134026.
 
-
 ### Lecture 8:	Validation, Cross Validation, and Uncertainty in Environmental Prediction
 Model validation for seasonal forecasts, hydrologic predictions, and ecological indicators. Introduces skill metrics used in environmental assessments including reliability diagrams and RMSE.
 
 ***References:*** 
 Chai, T. and Draxler, R.R., 2014. Root mean square error (RMSE) or mean absolute error (MAE)?–Arguments against avoiding RMSE in the literature. Geoscientific model development, 7(3), pp.1247-1250.
 
+<br/>
 
 ### <font color="#A52A3A">## Part III: Common machine-learning methods</font>
 ### Lecture 9:	Decision Trees and Random Forests in Earth Science
@@ -103,6 +108,8 @@ Focuses on integrating scientific principles and using AI emulators for fast app
 ***References:*** 
 Liu, L., Zhou, W., Guan, K., Peng, B., Xu, S., Tang, J., Zhu, Q., Till, J., Jia, X., Jiang, C. and Wang, S., 2024. Knowledge-guided machine learning can improve carbon cycle quantification in agroecosystems. Nature communications, 15(1), p.357.
 
+---
+<br/>
 
 ## Resources
 
