@@ -9,6 +9,20 @@
 .page-content {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
+.page-content h3 {
+  margin-top: 3rem;  /* space above each lecture heading */
+  margin-bottom: 0.5rem;  /* tighten space below lecture title */
+}
+
+.page-content p {
+  margin-top: 0.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.page-content strong {
+  display: inline-block;
+  margin-top: 0.2rem;
+}
 .page-content,
 .page-content h1,
 .page-content h2,
