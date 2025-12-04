@@ -24,6 +24,11 @@ permalink: "/Teaching"
 - [](https://nicolecx122.github.io/teaching/T004/syllabus)
 -->
 
+---
+<br/>
+<br/>
+<br/>
+
 ## Teaching Philosophy
 As an educator, my central goal is to inspire students to explore Earth system science and equip them with the skills to think critically, analyze complex systems, and collaborate across disciplines. I believe that effective teaching is rooted in three interconnected pillars: clarity, engagement, and adaptability. Through transparent expectations, active learning strategies, and personalized feedback, I aim to create a learning environment where students from diverse backgrounds feel supported and challenged; and where they are empowered to engage constructively with different people, spaces, situations, and ideas.
 
