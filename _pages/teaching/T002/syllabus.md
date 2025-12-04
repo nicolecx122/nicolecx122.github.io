@@ -24,14 +24,14 @@ This course explores the physical, biological, ecological, and geomorphic proces
 
 
 ## Course Topics and Outline
-### <font color="#4169E1">Lecture 1: Introduction to Coastal Systems</font>
+### <font color="#87CEEB">Lecture 1: Introduction to Coastal Systems</font>
 Coastal geomorphic and ecological settings, climate impacts, human pressures, overview of physical and biogeochemical coupling.
 
 ***References:*** <br/>
 - [Tagliapietra, D., Sigovini, M. and Ghirardini, A.V., 2009. A review of terms and definitions to categorise estuaries, lagoons and associated environments. Marine and freshwater Research, 60(6), pp.497-509.](https://connectsci.au/mf/article-abstract/60/6/497/58584/A-review-of-terms-and-definitions-to-categorise?redirectedFrom=fulltext)
 
 
-### <font color="#4169E1">Lecture 2: Tides and Waves</font>
+### <font color="#87CEEB">Lecture 2: Tides and Waves</font>
 Tide generation, propagation in estuaries, water level and inundation variability, relevance for water exchange and nutrient fluxes. Wave transformation processes and nearshore flows.
 
 ***References:*** <br/>
@@ -40,7 +40,7 @@ Tide generation, propagation in estuaries, water level and inundation variabilit
 - [Speer, P.E. and Aubrey, D.G., 1985. A study of non-linear tidal propagation in shallow inlet/estuarine systems Part II: Theory. Estuarine, Coastal and Shelf Science, 21(2), pp.207-224.](https://www.sciencedirect.com/science/article/pii/0272771485900976)
 
 
-### <font color="#4169E1">Lecture 3: Estuarine Circulation and Mixing</font>
+### <font color="#87CEEB">Lecture 3: Estuarine Circulation and Mixing</font>
 Density driven flows, stratification, mixing regimes, residence time, consequences for nutrient retention.
 
 ***References:*** <br/>
@@ -49,7 +49,7 @@ Density driven flows, stratification, mixing regimes, residence time, consequenc
 - [MacCready, P., 2004. Toward a unified theory of tidally-averaged estuarine salinity structure. Estuaries, 27(4), pp.561-570.](https://link.springer.com/article/10.1007/BF02907644)
 
 
-### <font color="#4169E1">Lecture 4: Saltwater Intrusion and Freshwater Controls</font>
+### <font color="#87CEEB">Lecture 4: Saltwater Intrusion and Freshwater Controls</font>
 Salt intrusion length, groundwater interactions, drought effects, implications for estuarine chemistry and vegetation.
 
 ***References:*** <br/>
@@ -59,7 +59,7 @@ Salt intrusion length, groundwater interactions, drought effects, implications f
 future challenges](https://www.sciencedirect.com/science/article/pii/S030917081200053X?casa_token=7NvqS5uNKQEAAAAA:8lkwmfTqiU8uR14SHTl1Clor2N7YNHu-rS3FYMDaC19jFFlbYSgNrxY0s1AsU0-n2_U5ODf7ow)
 
 
-### <font color="#4169E1">Lecture 5: Coastal Biogeochemistry I</font>
+### <font color="#87CEEB">Lecture 5: Coastal Biogeochemistry I</font>
 Primary production, respiration, nutrient sources and sinks, organic matter cycling, links with physical transport.
 
 ***References:*** <br/>
@@ -68,7 +68,7 @@ Primary production, respiration, nutrient sources and sinks, organic matter cycl
 - [Raymond, P.A. and Bauer, J.E., 2001. Riverine export of aged terrestrial organic matter to the North Atlantic Ocean. Nature, 409(6819), pp.497-500.](https://www.nature.com/articles/35054034)
 
 
-### <font color="#4169E1">Lecture 6: Coastal Biogeochemistry II</font>
+### <font color="#87CEEB">Lecture 6: Coastal Biogeochemistry II</font>
 Hypoxia formation, carbon dynamics, alkalinity processes, microbial pathways, feedbacks with hydrodynamics.
 
 ***References:*** <br/> 
@@ -77,7 +77,7 @@ Hypoxia formation, carbon dynamics, alkalinity processes, microbial pathways, fe
 - [Bauer, J.E., Cai, W.J., Raymond, P.A., Bianchi, T.S., Hopkinson, C.S. and Regnier, P.A., 2013. The changing carbon cycle of the coastal ocean. Nature, 504(7478), pp.61-70.](https://www.nature.com/articles/nature12857)
 
 
-### <font color="#4169E1">Lecture 7: Sediment Processes in a Biogeochemical Context</font>
+### <font color="#87CEEB">Lecture 7: Sediment Processes in a Biogeochemical Context</font>
 Suspended sediment behavior, deposition and erosion, reduced focus on morphology, emphasis on interactions with nutrients, light availability, and vegetation.
 
 ***References:*** <br/>
@@ -86,7 +86,7 @@ Suspended sediment behavior, deposition and erosion, reduced focus on morphology
 - [Turner, J.S., Friedrichs, C.T., Parrish, D.B. and Fall, K.A., 2025. Chesapeake Bay Water Clarity: Challenges and Successes. Annual Review of Marine Science, 18.](https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040224-120528)
 
 
-### <font color="#4169E1">Lecture 8: Coastal Wetlands and Marsh Evolution</font>
+### <font color="#87CEEB">Lecture 8: Coastal Wetlands and Marsh Evolution</font>
 Vertical accretion, vegetation sediment feedbacks, nutrient enrichment effects, vulnerability to sea level rise.
 
 ***References:*** <br/>
@@ -96,7 +96,7 @@ Vertical accretion, vegetation sediment feedbacks, nutrient enrichment effects, 
 - [Fagherazzi, S., Kirwan, M.L., Mudd, S.M., Guntenspergen, G.R., Temmerman, S., D'Alpaos, A., Van De Koppel, J., Rybczyk, J.M., Reyes, E., Craft, C. and Clough, J., 2012. Numerical models of salt marsh evolution: Ecological, geomorphic, and climatic factors. Reviews of Geophysics, 50(1).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011RG000359)
 
 
-### <font color="#4169E1">Lecture 9: Sea-level Rise and global warming</font>
+### <font color="#87CEEB">Lecture 9: Sea-level Rise and global warming</font>
 Historic and projected sea-level changes, warming effects, consequences for water quality and ecosystems.
 
 ***References:*** <br/>
@@ -104,7 +104,7 @@ Historic and projected sea-level changes, warming effects, consequences for wate
 - [Dangendorf, S., Hendricks, N., Sun, Q., Klinck, J., Ezer, T., Frederikse, T., Calafat, F.M., Wahl, T. and Törnqvist, T.E., 2023. Acceleration of US Southeast and Gulf coast sea-level rise amplified by internal climate variability. Nature Communications, 14(1), p.1935.](https://www.nature.com/articles/s41467-023-37649-9)
 
 
-### <font color="#4169E1">Lecture 10: Human Influences on Coastal Systems</font>
+### <font color="#87CEEB">Lecture 10: Human Influences on Coastal Systems</font>
 Dredging, nutrient loading, shoreline modification, coastal water quality, resilience strategies.
 
 ***References:*** <br/>
@@ -112,7 +112,7 @@ Dredging, nutrient loading, shoreline modification, coastal water quality, resil
 - [Jackson, J.B., Kirby, M.X., Berger, W.H., Bjorndal, K.A., Botsford, L.W., Bourque, B.J., Bradbury, R.H., Cooke, R., Erlandson, J., Estes, J.A. and Hughes, T.P., 2001. Historical overfishing and the recent collapse of coastal ecosystems. science, 293(5530), pp.629-637.](https://www.science.org/doi/full/10.1126/science.1059199?casa_token=PTJKRFM2oxEAAAAA%3AGN7h2fZ-ncB9R8zta2hpvBHjwYJaJP7izXMNZl0uWKqeTMNr9EH80FpNdnFsjVk3RbD5q0LOWpsfeg)
 
 
-### <font color="#4169E1">Lecture 11: Observational Techniques</font>
+### <font color="#87CEEB">Lecture 11: Observational Techniques</font>
 Water level, salinity, nutrients, oxygen, sediment sensors, field survey methods, remote sensing for coastal assessment.
 
 ***References:*** <br/>
@@ -123,7 +123,7 @@ Water level, salinity, nutrients, oxygen, sediment sensors, field survey methods
 - [Gorman, L., Morang, A. and Larson, R., 1998. Monitoring the coastal environment; part IV: mapping, shoreline changes, and bathymetric analysis. Journal of Coastal Research, pp.61-92.](https://www.jstor.org/stable/4298762?casa_token=Xmr12KRsuMUAAAAA%3AkH5zPtagaR1Q8HmdFVOqTmURn6zUGFbQIiICgbk8yfnJI0rxm49tjoT4tdnSryALrqSkp7f--CvH11MKLh0WgnjwPPBb7bVadGE3M7P4SX52OJjjl84&seq=1)
 
 
-### <font color="#4169E1">Lecture 12: Modeling Studies in Coastal Processes</font>
+### <font color="#87CEEB">Lecture 12: Modeling Studies in Coastal Processes</font>
 Estuaries, deltas, marshes, and barrier systems, examples showing combined physical and biogeochemical responses.
 
 ***References:*** <br/>
