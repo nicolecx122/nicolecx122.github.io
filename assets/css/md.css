@@ -1,5 +1,5 @@
 .page-content .wrapper {
-  max-width: 1000px; /* default is ~600px in Minima */
+  max-width: 1200px; /* default is ~600px in Minima */
   margin: 0 auto;
 }
 .page-content {
@@ -7,5 +7,14 @@
   padding-right: 2rem;
 }
 .page-content {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.page-content,
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content p,
+.page-content ul,
+.page-content li {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }

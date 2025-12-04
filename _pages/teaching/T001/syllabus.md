@@ -26,7 +26,6 @@ Apply machine learning methods to Earth system data and communicate results with
 
 <br/>
 ---
-<br/>
 
 ## Course Topics and Outline
 ### <font color="#A52A3A">Part I: Data of the earth system</font>
@@ -111,7 +110,6 @@ Liu, L., Zhou, W., Guan, K., Peng, B., Xu, S., Tang, J., Zhu, Q., Till, J., Jia,
 
 <br/>
 ---
-<br/>
 
 ## Resources
 
