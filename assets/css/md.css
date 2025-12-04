@@ -29,9 +29,11 @@
   margin-top: 0.2rem;
 }
 
-.page-content p + ul {
-  margin-top: 0.3em;  /* smaller vertical gap */
+.page-content ul {
+  margin-top: 0.2em;       /* controls spacing above the whole list */
+  margin-bottom: 0.2em;
 }
+
 
 .site-header,
 .site-header a,
