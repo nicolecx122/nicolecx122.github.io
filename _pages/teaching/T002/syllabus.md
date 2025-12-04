@@ -96,7 +96,7 @@ Vertical accretion, vegetation sediment feedbacks, nutrient enrichment effects, 
 - [Fagherazzi, S., Kirwan, M.L., Mudd, S.M., Guntenspergen, G.R., Temmerman, S., D'Alpaos, A., Van De Koppel, J., Rybczyk, J.M., Reyes, E., Craft, C. and Clough, J., 2012. Numerical models of salt marsh evolution: Ecological, geomorphic, and climatic factors. Reviews of Geophysics, 50(1).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011RG000359)
 
 
-### <font color="#000080">Lecture 9: Sea-level Rise and global warming</font>
+### <font color="#000080">Lecture 9: Sea-level Rise and Global Warming</font>
 Historic and projected sea-level changes, warming effects, consequences for water quality and ecosystems.
 
 ***References:*** <br/>
