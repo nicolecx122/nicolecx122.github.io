@@ -16,6 +16,8 @@
 .page-content h2 {
   margin-top: 3rem;  /* space above each lecture heading */
   margin-bottom: 0.5rem;  /* tighten space below lecture title */
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 0.3em;
 }
 .page-content p {
   margin-top: 0.2rem;
