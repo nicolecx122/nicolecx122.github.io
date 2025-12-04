@@ -83,7 +83,7 @@ Chai, T. and Draxler, R.R., 2014. Root mean square error (RMSE) or mean absolute
 
 <br/>
 
-### <font color="#A52A3A">## Part III: Common machine-learning methods</font>
+### <font color="#A52A3A">Part III: Common machine-learning methods</font>
 ### Lecture 9:	Decision Trees and Random Forests in Earth Science
 Applications examples including water quality classification, flood risk mapping, land cover recognition, and drought monitoring. Covers interpretability and feature importance for physical system insights.
 
