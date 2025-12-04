@@ -29,6 +29,10 @@
   margin-top: 0.2rem;
 }
 
+.page-content p + ul {
+  margin-top: 0.3em;  /* smaller vertical gap */
+}
+
 .site-header,
 .site-header a,
 .site-header nav a,

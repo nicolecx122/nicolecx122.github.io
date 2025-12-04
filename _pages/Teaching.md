@@ -35,3 +35,6 @@ I design courses with clearly defined learning objectives and scaffolded content
 To ensure accessibility and inclusion, especially in interdisciplinary or mixed-preparation classrooms, I use a “teaching from scratch” approach. I offer pre-class materials, recorded content for flexible review, and low-stakes assessments to reinforce understanding. In advanced courses, I emphasize project-based learning and open-ended research assignments that allow students to connect course topics to their own interests and lived experiences. These strategies help build a shared foundation while allowing each student to navigate the material in a way that feels authentic and meaningful.
 
 My teaching also centers on preparing students to work across disciplinary boundaries and with diverse communities. Earth and environmental sciences demand systems-level thinking, cross-cultural communication, and ethical engagement with societal challenges. Whether students are modeling saltwater intrusion, examining nutrient cycles, or assessing coastal resilience, I encourage them to situate their work within broader ecological, social, and policy contexts. In doing so, I hope to cultivate scientists and citizens who can engage with complexity and uncertainty; and who are equipped to collaborate across worldviews and disciplines.
+
+---
+
