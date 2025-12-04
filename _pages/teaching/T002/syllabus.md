@@ -21,7 +21,7 @@ This course explores the physical, biological, ecological, and geomorphic proces
 - Communicate scientific interpretations relevant to coastal management and climate adaptation.
 
 <br/>
-<br/>
+
 
 ## Course Topics and Outline
 ### <font color="#4169E1">Lecture 1: Introduction to Coastal Systems</font>
@@ -97,7 +97,7 @@ Estuaries, deltas, marshes, and barrier systems, examples showing combined physi
 
 
 <br/>
-<br/>
+
 
 ## Resources
 #### Books

@@ -24,9 +24,7 @@ permalink: "/Teaching"
 - [](https://nicolecx122.github.io/teaching/T004/syllabus)
 -->
 
----
-<br/>
-<br/>
+
 <br/>
 
 ## Teaching Philosophy

@@ -12,20 +12,19 @@ This course introduces data driven techniques used to analyze Earth and environm
 <br/>
 
 ## Learning goals
-- Environmental Data and Preprocessing
+- **Environmental Data and Preprocessing:**
 Identify major Earth system datasets and apply essential preprocessing to prepare data for analysis
 
-- Exploratory Data Analysis
+- **Exploratory Data Analysis:**
 Characterize variability in environmental data across time and space using standard analysis techniques
 
-- Data Driven Modeling and Evaluation
+- **Data Driven Modeling and Evaluation:**
 Build and assess statistical models that explain and predict environmental processes
 
-- Machine Learning for Earth System Applications
+- **Machine Learning for Earth System Applications:**
 Apply machine learning methods to Earth system data and communicate results with reproducible workflows
 
-<br/>
----
+
 
 ## Course Topics and Outline
 ### <font color="#A52A3A">Part I: Data of the earth system</font>
@@ -108,8 +107,7 @@ Focuses on integrating scientific principles and using AI emulators for fast app
 ***References:*** 
 Liu, L., Zhou, W., Guan, K., Peng, B., Xu, S., Tang, J., Zhu, Q., Till, J., Jia, X., Jiang, C. and Wang, S., 2024. Knowledge-guided machine learning can improve carbon cycle quantification in agroecosystems. Nature communications, 15(1), p.357.
 
-<br/>
----
+
 
 ## Resources
 
