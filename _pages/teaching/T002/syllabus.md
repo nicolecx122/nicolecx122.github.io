@@ -55,8 +55,7 @@ Salt intrusion length, groundwater interactions, drought effects, implications f
 ***References:*** <br/>
 - [MacCready, P., 1999. Estuarine adjustment to changes in river flow and tidal mixing. Journal of Physical Oceanography, 29(4), pp.708-726.](https://journals.ametsoc.org/view/journals/phoc/29/4/1520-0485_1999_029_0708_eatcir_2.0.co_2.xml)
 - [Barlow, P.M. and Reichard, E.G., 2010. Saltwater intrusion in coastal regions of North America. Hydrogeology Journal, 18(1), pp.247-260.](https://link.springer.com/article/10.1007/s10040-009-0514-3)
-- [Seawater intrusion processes, investigation and management: Recent advances and
-future challenges](https://www.sciencedirect.com/science/article/pii/S030917081200053X?casa_token=7NvqS5uNKQEAAAAA:8lkwmfTqiU8uR14SHTl1Clor2N7YNHu-rS3FYMDaC19jFFlbYSgNrxY0s1AsU0-n2_U5ODf7ow)
+- [Werner, A.D., Bakker, M., Post, V.E., Vandenbohede, A., Lu, C., Ataie-Ashtiani, B., Simmons, C.T. and Barry, D.A., 2013. Seawater intrusion processes, investigation and management: Recent advances and future challenges. Advances in water resources, 51, pp.3-26.](https://www.sciencedirect.com/science/article/pii/S030917081200053X?casa_token=7NvqS5uNKQEAAAAA:8lkwmfTqiU8uR14SHTl1Clor2N7YNHu-rS3FYMDaC19jFFlbYSgNrxY0s1AsU0-n2_U5ODf7ow)
 
 
 ### <font color="#000080">Lecture 5: Coastal Biogeochemistry I</font>
