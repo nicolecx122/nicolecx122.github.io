@@ -12,16 +12,16 @@ This course introduces data driven techniques used to analyze Earth and environm
 <br/>
 
 ## Learning goals
-- **Environmental Data and Preprocessing:**
+- **Environmental Data and Preprocessing:** <br/>
 Identify major Earth system datasets and apply essential preprocessing to prepare data for analysis
 
-- **Exploratory Data Analysis:**
+- **Exploratory Data Analysis:** <br/>
 Characterize variability in environmental data across time and space using standard analysis techniques
 
-- **Data Driven Modeling and Evaluation:**
+- **Data Driven Modeling and Evaluation:** <br/>
 Build and assess statistical models that explain and predict environmental processes
 
-- **Machine Learning for Earth System Applications:**
+- **Machine Learning for Earth System Applications:** <br/>
 Apply machine learning methods to Earth system data and communicate results with reproducible workflows
 
 <br/>
